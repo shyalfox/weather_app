@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+// ignore: unused_import
 import 'package:weather_app/weather_screen.dart';
 
 void main() {
