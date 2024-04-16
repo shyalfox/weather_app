@@ -5,4 +5,4 @@
  <br>
 </div><br/>
 
-![Image Alt Text](image3.jpg)
+![Image Alt Text](/image3.jpg)
