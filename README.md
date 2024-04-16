@@ -4,4 +4,5 @@
   <p>An Application which shows the weather, forecast and additional  information.</p>
  <br>
 </div><br/>
-![Image Alt Text](/image3.jpg)
+
+![Image Alt Text](image3.jpg)
