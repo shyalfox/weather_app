@@ -8,7 +8,7 @@
 ![Image Alt Text](/3.jpg)
 
 ### Feature
--Search Bar with Many Locations/cities inside List
+-Search Bar with Many Locations / cities inside List
 -Live Weathwr
 -Hourly Forecast(Every 3 hour)
 -Additional Information (Humidity,Wind Speed, Pressure)
