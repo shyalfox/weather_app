@@ -9,7 +9,7 @@
 
 ### Feature
 -Search Bar with Many Locations / cities inside List
--Live Weathwr
+-Live Weather
 -Hourly Forecast(Every 3 hour)
 -Additional Information (Humidity,Wind Speed, Pressure)
 
