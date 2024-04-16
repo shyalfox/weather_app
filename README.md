@@ -8,14 +8,14 @@
 ![Image Alt Text](/3.jpg)
 
 ### Feature
--Search Bar with Many Locations / cities inside List
--Live Weather
--Hourly Forecast(Every 3 hour)
--Additional Information (Humidity,Wind Speed, Pressure)
+- Search Bar with Many Locations / cities inside List
+- Live Weather
+- Hourly Forecast(Every 3 hour)
+- Additional Information (Humidity,Wind Speed, Pressure)
 
 ### Language
-- Flutter framework with Dart
+-  Flutter framework with Dart
 
 ### Weather Api
--Open Weather 2.5
+- Open Weather 2.5
 
