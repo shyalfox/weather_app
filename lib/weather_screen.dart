@@ -1,6 +1,5 @@
 import 'dart:convert';
 import 'dart:ui';
-import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 
 import 'package:weather_app/secret.dart';
@@ -30,9 +29,7 @@ class _WeatherScreenState extends State<WeatherScreen> {
       for (var name in names) {
         finalNames.add(name.substring(0, 1).toUpperCase() + name.substring(1));
       }
-      if (kDebugMode) {
-        print(finalNames.join(' '));
-      }
+      print(finalNames.join(' '));
       return finalNames.join(' ');
     }
     return s.substring(0, 1).toUpperCase() + s.substring(1);
